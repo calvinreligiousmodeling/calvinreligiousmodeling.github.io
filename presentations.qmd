@@ -1,0 +1,56 @@
+---
+title: "Presentations"
+editor: visual
+---
+## 2025
+
+:::::: slide-deck
+**ASA Annual Meeting 2025 - SCIENCE & TECHNOLOGY AS WORSHIP**
+
+::: slides
+[Slides 07/19/2025](/presentations/2025/ASA/asa2025Araujo.pdf)
+:::
+
+::: source
+<a href="https://network.asa3.org/mpage/ASA2025">2025 ASA Link</a>
+:::
+
+::: reading
+[Presentation - Text](/presentations/2025/ASA/presentation.qmd)
+:::
+
+::::::
+
+## 2024
+
+:::::: slide-deck
+**19º Congresso Brasileiro de Sistemas (CBS) - Goiânia, Brazil**
+
+::: slides
+[Slides 11/29/2024](/presentations/2024/CBS-Brasil/abms.qmd)
+:::
+
+::: source
+<a href="https://19cbs.inf.ufg.br/">2024 CBS Link</a>
+:::
+
+```{=html}
+<!-- ::: reading
+[The virus and socioeconomic inequality: An agent-based model to simulate and assess the impact of interventions to reduce the spread of COVID-19 in Rio de Janeiro, Brazil](https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/9209) -->
+```
+
+```{=html}
+<!-- 
+-   R4DS :: [Chp 2 - Introduction](https://r4ds.had.co.nz/explore-intro.html)
+-   IMS :: [Sec 1.1 & 1.2 - Case study & Data basics](https://openintro-ims.netlify.app/data-hello.html)
+-->
+```
+
+<!-- ::: -->
+
+<!-- **Applying agent-based modelling (ABM) to evaluation - Professor Nigel Gilbert** -->
+
+<!-- ::: video
+[Coming soon...]()
+::: -->
+::::::

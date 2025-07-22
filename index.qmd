@@ -1,0 +1,49 @@
+---
+title: "Every Square Inch"
+---
+
+![](files/Self-BW-Adjusted.png){style="float: right; padding: 20px;" fig-alt="Portrait at Búzios in 2023." fig-align="right" width="250"}
+
+<!-- ### Computational Modeling for the Flourishing of the Whole Creation -->
+
+Olá! My name is Eric Araújo, and currently, I hold the following positions:
+
+- Associate Professor at the [Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"} at [Calvin University](https://calvin.edu/){target="_blank"}
+- Head of the Behavioural Informatics Laboratory (BILbo)
+
+### Scholarship
+
+Eric investigates the spread of opinions, sentiments, and behaviors in **complex systems** through **multiagent modeling and simulations**, offering insights into **social dynamics** in politics, cooperation, health, criminology, and religion.
+
+Therefore, the work I develop is multidisciplinary, using computer science tools to solve problems in areas such as public security, the spread of fake news, promoting healthier lifestyles, etc.
+
+You can download my PhD Thesis on the following link 
+
+- [Contagious: Modeling the spread of behaviours, perceptions and emotions in social networks](./files/Contagious_Eric_Araujo.pdf){target="_blank"}.
+
+### Education
+- PhD in Computer Science, [Vrije Universiteit Amsterdam](https://vu.nl/nl){target="_blank"}, The Netherlands, 2018
+- MSc in Computer Science, [Federal University of Minas Gerais](https://ufmg.br/){target="_blank"}, Brazil, 2009
+- BSc in Computer Science, [Federal University of Viçosa](https://www.ufv.br/){target="_blank"}, Brazil, 2007
+
+You can find more about me on my [LinkTree](https://linktr.ee/earaujo){target="_blank"}.
+
+### Recent Updates:
+
+- A new paper was accepted by the *Journal of Complex Systems*. This work was developed by the master’s student Matheus Flausino and co-supervised with Prof. Dr. Angelica de Sousa da Mata. The paper is entitled *Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil*. It can be accessed through [this link](https://doi.org/10.1093/comnet/cnaf016){target=_blank}.
+- A work in collaboration with Fiocruz (Brazil) will be presented as a poster during the INSNA Sunbelt 2025, to happen in Paris, France. The work is entitled [Scientific Collaboration in Health and Life Sciences: A Study of Brazil's Contributions and Partnerships](https://www.conftool.pro/sunbelt2025/index.php?page=browseSessions&form_session=196#paperID891){target=_blank}.
+- I participated in the event ["Algorithms, Democracy and Society: challenges and perspectives"](https://algoritmosesociedade.inf.ufg.br/#inicio){target="_blank} on May 28th and 29th talking about education, AI and society (in Portuguese).
+- I presented a paper titled *Modeling Introversion in the Classroom: An Agent-Based Approach* at [Autonomous Agents for Social Good 2025](https://panosd.eu/aasg2025/call/){target=_blank} held in Detroit on May 19, 2025. The paper is the result of a Senior Project developed by B.S. students Daniel Kwon and Jaden Brookens.
+- My abstract titled *Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling* was accepted for an oral presentation at [ASA 2025](https://network.asa3.org/mpage/ASA2025){target=_blank}.
+- A paper entitled [*The use of agent-based modeling in the study of complex systems*](https://doi.org/10.1590/1806-9126-RBEF-2024-0464){target="_blank"} (in Portuguese only) was accepted by the *Brazilian Journal of Physics Teaching*. This is the result of the master's studies of Clayton R. da Silva, in partnership with Prof. Angélica S. Mata.
+
+<!-- ## License {.unnumbered}
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
+Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LICENSE.md) for more information about the license.
+
+## Acknowledements {.unnumbered}
+
+Huge thanks to the #rstats education community who have made numerous suggestions for this resource, to Lee Suddaby and Zeno Kujawa for converting the homework assignments to learnr tutorials, and to [Müge Çetinkaya](http://muge.fr/) for the hex logo!
+
+This website is built with [Quarto](https://quarto.org), the lovely icons by [icons8](http://icons8.com/), and none of this would be possible without the [tidyverse](https://tidyverse.org). -->

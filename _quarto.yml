@@ -1,0 +1,99 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "images/twitter-card.png"
+    - "files/Calvin_College.png"
+    - "course-materials/_slides/"
+    
+website:
+  page-navigation: true
+  title: "Eric Araújo"
+  description: "Eric Araújo's personal website"
+  site-url: "https://ericaraujo.com/"
+  favicon: "files/Calvin_College.png"
+  
+  repo-url: https://github.com/ericaraujophd/ericaraujophd.github.io.git
+  repo-actions: [edit, issue]
+
+  open-graph: true
+  twitter-card:
+    creator: "@ericfaraujo"
+    image: "/images/twitter-card.png"
+
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#0070C0"
+    right:
+    - text: "License"
+      href: LICENSE.md
+    - text: "Code of Conduct"
+      href: CODE_OF_CONDUCT.md
+
+  navbar:
+    background: "#0070C0"
+    logo: "files/Calvin_College_White.png"
+    align: center
+    title: false
+    collapse-below: lg
+ 
+    right:
+      - icon: github
+        href: https://github.com/ericaraujophd/ericaraujophd.github.io.git
+        aria-label: GitHub
+
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Presentations"
+        href: presentations.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Advising"
+        href: advising.qmd
+      - text: "Updates and Events"
+        href: updates.qmd
+      - text: "CFR Generator"
+        href: cfr.html
+      # - text: "Design"
+      #   href: design.qmd
+
+  sidebar:
+    - id: publications
+      title: "Publications"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: publications.qmd
+        # - href: 01-overview.qmd
+        # - href: 01-design-principles.qmd
+        # - href: 01-topics.qmd
+        # - href: 01-tech-stack.qmd
+        # - href: 01-community.qmd
+
+    - id: content
+      title: "Advising"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: advising.qmd
+        - href: advising-past.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/dsbox.scss]
+      dark: [cosmo, style/dsbox.scss, style/dark.scss]
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header: "style/fontawesome.html"
+
+freeze: auto
+
+editor: visual
