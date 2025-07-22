@@ -27,8 +27,6 @@ website:
     right:
     - text: "License"
       href: LICENSE.md
-    - text: "Code of Conduct"
-      href: CODE_OF_CONDUCT.md
 
   navbar:
     background: "#0070C0"
@@ -51,8 +49,6 @@ website:
         href: presentations.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Advising"
-        href: advising.qmd
       - text: "Updates and Events"
         href: updates.qmd
       - text: "CFR Generator"
@@ -73,15 +69,6 @@ website:
         # - href: 01-topics.qmd
         # - href: 01-tech-stack.qmd
         # - href: 01-community.qmd
-
-    - id: content
-      title: "Advising"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - href: advising.qmd
-        - href: advising-past.qmd
 
 format:
   html:

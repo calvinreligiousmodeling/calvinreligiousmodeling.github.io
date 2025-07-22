@@ -5,4 +5,4 @@ editor: visual
 
 ## 2024
 
-- I participated as an **External Committee Member** in the PhD Qualification Exam of *Jamile Santos dos Santos*, supervised by *Prof. Daniel Gregorio Alfaro Vigo* on the subject of **Complex Systems Analysis**. The examination happened on August 28, 2024.
+-   I participated as an **External Committee Member** in the PhD Qualification Exam of *Jamile Santos dos Santos*, supervised by *Prof. Daniel Gregorio Alfaro Vigo* on the subject of **Complex Systems Analysis**. The examination happened on August 28, 2024.
