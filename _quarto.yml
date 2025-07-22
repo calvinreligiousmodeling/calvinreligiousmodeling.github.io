@@ -47,12 +47,8 @@ website:
         href: publications.qmd
       - text: "Presentations"
         href: presentations.qmd
-      - text: "Teaching"
-        href: teaching.qmd
       - text: "News & Events"
         href: updates.qmd
-      - text: "CFR Generator"
-        href: cfr.html
       # - text: "Design"
       #   href: design.qmd
 
