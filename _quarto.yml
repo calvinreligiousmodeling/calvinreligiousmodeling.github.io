@@ -8,12 +8,12 @@ project:
     
 website:
   page-navigation: true
-  title: "Eric Araújo"
-  description: "Eric Araújo's personal website"
-  site-url: "https://ericaraujo.com/"
+  title: "Calvin Religious Modeling"
+  description: "Research Group"
+  site-url: "https://calvinreligiousmodeling.org/"
   favicon: "files/Calvin_College.png"
   
-  repo-url: https://github.com/ericaraujophd/ericaraujophd.github.io.git
+  repo-url: https://github.com/calvinreligiousmodeling/calvinreligiousmodeling.github.io
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -39,7 +39,7 @@ website:
  
     right:
       - icon: github
-        href: https://github.com/ericaraujophd/ericaraujophd.github.io.git
+        href: https://github.com/calvinreligiousmodeling/calvinreligiousmodeling.github.io
         aria-label: GitHub
 
     left:

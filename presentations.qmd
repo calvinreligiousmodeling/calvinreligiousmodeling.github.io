@@ -2,9 +2,10 @@
 title: "Presentations"
 editor: visual
 ---
+
 ## 2025
 
-:::::: slide-deck
+::::: slide-deck
 **ASA Annual Meeting 2025 - SCIENCE & TECHNOLOGY AS WORSHIP**
 
 ::: slides
@@ -14,20 +15,15 @@ editor: visual
 ::: source
 <a href="https://network.asa3.org/mpage/ASA2025">2025 ASA Link</a>
 :::
-
-::: reading
-[Presentation - Text](/presentations/2025/ASA/presentation.qmd)
-:::
-
-::::::
+:::::
 
 ## 2024
 
-:::::: slide-deck
+::::: slide-deck
 **19º Congresso Brasileiro de Sistemas (CBS) - Goiânia, Brazil**
 
 ::: slides
-[Slides 11/29/2024](/presentations/2024/CBS-Brasil/abms.qmd)
+[Slides 11/29/2024](/presentations/2024/CBS-Brasil/abms.pdf)
 :::
 
 ::: source
@@ -50,7 +46,9 @@ editor: visual
 
 <!-- **Applying agent-based modelling (ABM) to evaluation - Professor Nigel Gilbert** -->
 
+```{=html}
 <!-- ::: video
 [Coming soon...]()
 ::: -->
-::::::
+```
+:::::
