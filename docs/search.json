@@ -35,11 +35,53 @@
     "text": "I participated as an External Committee Member in the PhD Qualification Exam of Jamile Santos dos Santos, supervised by Prof. Daniel Gregorio Alfaro Vigo on the subject of Complex Systems Analysis. The examination happened on August 28, 2024."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Every Square Inch",
-    "section": "",
-    "text": "Olá! My name is Eric Araújo, and currently, I hold the following positions:\n\nAssociate Professor at the Computer Science Department at Calvin University\nHead of the Behavioural Informatics Laboratory (BILbo)\n\n\nScholarship\nEric investigates the spread of opinions, sentiments, and behaviors in complex systems through multiagent modeling and simulations, offering insights into social dynamics in politics, cooperation, health, criminology, and religion.\nTherefore, the work I develop is multidisciplinary, using computer science tools to solve problems in areas such as public security, the spread of fake news, promoting healthier lifestyles, etc.\nYou can download my PhD Thesis on the following link\n\nContagious: Modeling the spread of behaviours, perceptions and emotions in social networks.\n\n\n\nEducation\n\nPhD in Computer Science, Vrije Universiteit Amsterdam, The Netherlands, 2018\nMSc in Computer Science, Federal University of Minas Gerais, Brazil, 2009\nBSc in Computer Science, Federal University of Viçosa, Brazil, 2007\n\nYou can find more about me on my LinkTree.\n\n\nRecent Updates:\n\nA new paper was accepted by the Journal of Complex Systems. This work was developed by the master’s student Matheus Flausino and co-supervised with Prof. Dr. Angelica de Sousa da Mata. The paper is entitled Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil. It can be accessed through this link.\nA work in collaboration with Fiocruz (Brazil) will be presented as a poster during the INSNA Sunbelt 2025, to happen in Paris, France. The work is entitled Scientific Collaboration in Health and Life Sciences: A Study of Brazil’s Contributions and Partnerships.\nI participated in the event “Algorithms, Democracy and Society: challenges and perspectives” on May 28th and 29th talking about education, AI and society (in Portuguese).\nI presented a paper titled Modeling Introversion in the Classroom: An Agent-Based Approach at Autonomous Agents for Social Good 2025 held in Detroit on May 19, 2025. The paper is the result of a Senior Project developed by B.S. students Daniel Kwon and Jaden Brookens.\nMy abstract titled Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling was accepted for an oral presentation at ASA 2025.\nA paper entitled The use of agent-based modeling in the study of complex systems (in Portuguese only) was accepted by the Brazilian Journal of Physics Teaching. This is the result of the master’s studies of Clayton R. da Silva, in partnership with Prof. Angélica S. Mata."
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Welcome",
+    "text": "Welcome\nThe Calvin Religious Modeling Research Group is a multidisciplinary initiative at Calvin University dedicated to advancing computational modeling approaches to understand religious phenomena, faith-based behaviors, and their intersection with social dynamics."
+  },
+  {
+    "objectID": "index.html#our-mission",
+    "href": "index.html#our-mission",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Our Mission",
+    "text": "Our Mission\nWe investigate how computational models can illuminate the complex dynamics of religious communities, belief formation, and faith-based decision-making. Our work bridges computer science, sociology, psychology, and theology to provide evidence-based insights into religious life and practice."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nAgent-Based Modeling of Religious Communities: Studying how beliefs, practices, and values spread within and between religious groups\nComputational Models of Faith Formation: Understanding the processes by which individuals develop and change their religious beliefs\nSocial Network Analysis in Religious Contexts: Examining the role of relationships and community structures in religious life\nBehavioral Modeling of Religious Practices: Investigating how religious beliefs influence behavior and decision-making\nInterfaith Dynamics: Modeling interactions between different religious traditions and their impact on social cohesion"
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Leadership",
+    "text": "Leadership\nEric Araújo, Associate Professor\nComputer Science Department, Calvin University\nHead of the Behavioural Informatics Laboratory (BILbo)\n\nPhD in Computer Science, Vrije Universiteit Amsterdam, The Netherlands, 2018\nExpertise in multiagent modeling, complex systems, and social dynamics"
+  },
+  {
+    "objectID": "index.html#collaboration",
+    "href": "index.html#collaboration",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Collaboration",
+    "text": "Collaboration\nOur research group welcomes collaboration with scholars from diverse fields including theology, sociology, psychology, anthropology, and computer science. We believe that understanding religious phenomena requires interdisciplinary approaches that respect both scientific rigor and the complexity of faith."
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\nASA 2025 Presentation: Our abstract Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling was accepted for oral presentation at ASA 2025.\nStudent Research Success: A paper titled Modeling Introversion in the Classroom: An Agent-Based Approach was presented at Autonomous Agents for Social Good 2025, showcasing undergraduate research by Daniel Kwon and Jaden Brookens.\nNew Publication: Our collaborative work Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil was published in the Journal of Complex Systems (link).\nCollaborative Research: We’re presenting work on scientific collaboration networks at INSNA Sunbelt 2025 in Paris: Scientific Collaboration in Health and Life Sciences: A Study of Brazil’s Contributions and Partnerships.\nEducational Outreach: Published The use of agent-based modeling in the study of complex systems in the Brazilian Journal of Physics Teaching to promote computational modeling education."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Calvin Religious Modeling Research Group",
+    "section": "Contact",
+    "text": "Contact\nFor inquiries about research collaboration, student opportunities, or general information, please contact us through the Computer Science Department at Calvin University."
   },
   {
     "objectID": "LICENSE.html",
@@ -76,6 +118,7 @@
     "section": "",
     "text": "Here you will find my publications by year. Some of them are scientific papers, some of them are interviews or newspaper’s articles. I count all of it as part of my research work, and valuable as resource for those who are interested in my developments.\nThis page is permanently under construction, so if you want to have my whole body of publications in one place, I recommend going to my Google Scholar profile.\nYou can also find my CV in Portuguese at Lattes CV. Also, my social networks in English are ResearchGate and Threads.\nI have also created a YouTube channel during the 2020 pandemic to divulge my work as well as teaching resources on Agent-based modeling with Netlogo.\nPlease let me know if any links are not working, or if you need some of my papers and can’t access them by emailing me.",
     "crumbs": [
+      "Research",
       "Publications"
     ]
   },

@@ -1,49 +1,50 @@
 ---
-title: "Every Square Inch"
+title: "Calvin Religious Modeling Research Group"
 ---
 
-![](files/Self-BW-Adjusted.png){style="float: right; padding: 20px;" fig-alt="Portrait at Búzios in 2023." fig-align="right" width="250"}
+![](files/Calvin_College.png){style="float: right; padding: 20px;" fig-alt="Calvin University Logo" fig-align="right" width="250"}
 
-<!-- ### Computational Modeling for the Flourishing of the Whole Creation -->
+## Welcome
 
-Olá! My name is Eric Araújo, and currently, I hold the following positions:
+The Calvin Religious Modeling Research Group is a multidisciplinary initiative at [Calvin University](https://calvin.edu/){target="_blank"} dedicated to advancing computational modeling approaches to understand religious phenomena, faith-based behaviors, and their intersection with social dynamics.
 
-- Associate Professor at the [Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"} at [Calvin University](https://calvin.edu/){target="_blank"}
-- Head of the Behavioural Informatics Laboratory (BILbo)
+## Our Mission
 
-### Scholarship
+We investigate how computational models can illuminate the complex dynamics of religious communities, belief formation, and faith-based decision-making. Our work bridges computer science, sociology, psychology, and theology to provide evidence-based insights into religious life and practice.
 
-Eric investigates the spread of opinions, sentiments, and behaviors in **complex systems** through **multiagent modeling and simulations**, offering insights into **social dynamics** in politics, cooperation, health, criminology, and religion.
+## Research Areas
 
-Therefore, the work I develop is multidisciplinary, using computer science tools to solve problems in areas such as public security, the spread of fake news, promoting healthier lifestyles, etc.
+-   **Agent-Based Modeling of Religious Communities**: Studying how beliefs, practices, and values spread within and between religious groups
+-   **Computational Models of Faith Formation**: Understanding the processes by which individuals develop and change their religious beliefs
+-   **Social Network Analysis in Religious Contexts**: Examining the role of relationships and community structures in religious life
+-   **Behavioral Modeling of Religious Practices**: Investigating how religious beliefs influence behavior and decision-making
+-   **Interfaith Dynamics**: Modeling interactions between different religious traditions and their impact on social cohesion
 
-You can download my PhD Thesis on the following link 
+## Leadership
 
-- [Contagious: Modeling the spread of behaviours, perceptions and emotions in social networks](./files/Contagious_Eric_Araujo.pdf){target="_blank"}.
+**Eric Araújo**, Associate Professor\
+[Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"}, Calvin University\
+Head of the Behavioural Informatics Laboratory (BILbo)
 
-### Education
-- PhD in Computer Science, [Vrije Universiteit Amsterdam](https://vu.nl/nl){target="_blank"}, The Netherlands, 2018
-- MSc in Computer Science, [Federal University of Minas Gerais](https://ufmg.br/){target="_blank"}, Brazil, 2009
-- BSc in Computer Science, [Federal University of Viçosa](https://www.ufv.br/){target="_blank"}, Brazil, 2007
+-   PhD in Computer Science, [Vrije Universiteit Amsterdam](https://vu.nl/nl){target="_blank"}, The Netherlands, 2018
+-   Expertise in multiagent modeling, complex systems, and social dynamics
 
-You can find more about me on my [LinkTree](https://linktr.ee/earaujo){target="_blank"}.
+## Collaboration
 
-### Recent Updates:
+Our research group welcomes collaboration with scholars from diverse fields including theology, sociology, psychology, anthropology, and computer science. We believe that understanding religious phenomena requires interdisciplinary approaches that respect both scientific rigor and the complexity of faith.
 
-- A new paper was accepted by the *Journal of Complex Systems*. This work was developed by the master’s student Matheus Flausino and co-supervised with Prof. Dr. Angelica de Sousa da Mata. The paper is entitled *Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil*. It can be accessed through [this link](https://doi.org/10.1093/comnet/cnaf016){target=_blank}.
-- A work in collaboration with Fiocruz (Brazil) will be presented as a poster during the INSNA Sunbelt 2025, to happen in Paris, France. The work is entitled [Scientific Collaboration in Health and Life Sciences: A Study of Brazil's Contributions and Partnerships](https://www.conftool.pro/sunbelt2025/index.php?page=browseSessions&form_session=196#paperID891){target=_blank}.
-- I participated in the event ["Algorithms, Democracy and Society: challenges and perspectives"](https://algoritmosesociedade.inf.ufg.br/#inicio){target="_blank} on May 28th and 29th talking about education, AI and society (in Portuguese).
-- I presented a paper titled *Modeling Introversion in the Classroom: An Agent-Based Approach* at [Autonomous Agents for Social Good 2025](https://panosd.eu/aasg2025/call/){target=_blank} held in Detroit on May 19, 2025. The paper is the result of a Senior Project developed by B.S. students Daniel Kwon and Jaden Brookens.
-- My abstract titled *Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling* was accepted for an oral presentation at [ASA 2025](https://network.asa3.org/mpage/ASA2025){target=_blank}.
-- A paper entitled [*The use of agent-based modeling in the study of complex systems*](https://doi.org/10.1590/1806-9126-RBEF-2024-0464){target="_blank"} (in Portuguese only) was accepted by the *Brazilian Journal of Physics Teaching*. This is the result of the master's studies of Clayton R. da Silva, in partnership with Prof. Angélica S. Mata.
+## Recent Updates
 
-<!-- ## License {.unnumbered}
+-   **ASA 2025 Presentation**: Our abstract *Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling* was accepted for oral presentation at [ASA 2025](https://network.asa3.org/mpage/ASA2025){target="_blank"}.
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
-Visit [here](https://github.com/rstudio-education/datascience-box/blob/master/LICENSE.md) for more information about the license.
+-   **Student Research Success**: A paper titled *Modeling Introversion in the Classroom: An Agent-Based Approach* was presented at [Autonomous Agents for Social Good 2025](https://panosd.eu/aasg2025/call/){target="_blank"}, showcasing undergraduate research by Daniel Kwon and Jaden Brookens.
 
-## Acknowledements {.unnumbered}
+-   **New Publication**: Our collaborative work *Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil* was published in the *Journal of Complex Systems* ([link](https://doi.org/10.1093/comnet/cnaf016){target="_blank"}).
 
-Huge thanks to the #rstats education community who have made numerous suggestions for this resource, to Lee Suddaby and Zeno Kujawa for converting the homework assignments to learnr tutorials, and to [Müge Çetinkaya](http://muge.fr/) for the hex logo!
+-   **Collaborative Research**: We're presenting work on scientific collaboration networks at INSNA Sunbelt 2025 in Paris: [*Scientific Collaboration in Health and Life Sciences: A Study of Brazil's Contributions and Partnerships*](https://www.conftool.pro/sunbelt2025/index.php?page=browseSessions&form_session=196#paperID891){target="_blank"}.
 
-This website is built with [Quarto](https://quarto.org), the lovely icons by [icons8](http://icons8.com/), and none of this would be possible without the [tidyverse](https://tidyverse.org). -->
+-   **Educational Outreach**: Published [*The use of agent-based modeling in the study of complex systems*](https://doi.org/10.1590/1806-9126-RBEF-2024-0464){target="_blank"} in the *Brazilian Journal of Physics Teaching* to promote computational modeling education.
+
+## Contact
+
+For inquiries about research collaboration, student opportunities, or general information, please contact us through the [Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"} at Calvin University.

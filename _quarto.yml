@@ -18,11 +18,11 @@ website:
 
   open-graph: true
   twitter-card:
-    creator: "@ericfaraujo"
+    creator: "@calvinreligiousmodeling"
     image: "/images/twitter-card.png"
 
   page-footer:
-    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "Calvin Religious Modeling Research Group | Built with ❤️ and [Quarto](https://quarto.org/)."
     background: "#0070C0"
     right:
     - text: "License"
@@ -41,15 +41,15 @@ website:
         aria-label: GitHub
 
     left:
-      - text: "Overview"
+      - text: "Home"
         href: index.qmd
-      - text: "Publications"
+      - text: "Research"
         href: publications.qmd
       - text: "Presentations"
         href: presentations.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Updates and Events"
+      - text: "News & Events"
         href: updates.qmd
       - text: "CFR Generator"
         href: cfr.html
@@ -57,18 +57,17 @@ website:
       #   href: design.qmd
 
   sidebar:
-    - id: publications
-      title: "Publications"
+    - id: research
+      title: "Research"
       style: "floating"
       collapse-level: 2
       align: left
       contents:
         - href: publications.qmd
-        # - href: 01-overview.qmd
-        # - href: 01-design-principles.qmd
-        # - href: 01-topics.qmd
-        # - href: 01-tech-stack.qmd
-        # - href: 01-community.qmd
+        # Future research areas can be added here
+        # - href: research-areas.qmd
+        # - href: ongoing-projects.qmd
+        # - href: collaborations.qmd
 
 format:
   html:
