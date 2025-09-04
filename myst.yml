@@ -1,0 +1,32 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3a593205-1e5b-4b68-bdbb-70781908113b
+  title: Calvin Religious Modeling
+  description: A collection of religious models developed by Calvin University students and faculty.
+  keywords: 
+    - agent-based models
+    - religious modeling
+    - Calvin University
+  authors: [Eric Araújo]
+  github: calvinreligiousmodeling/calvinreligiousmodeling.github.io
+  exclude_patterns: [_old/*]
+  toc:
+    - file: index.md
+      title: Home
+    - file: churchPolarization/index.md
+      title: Church Polarization Model
+    #   title: About
+    # - file: models/model1
+    #   title: Model 1
+    # - file: models/model2
+    #   title: Model 2
+    # - file: contact
+    #   title: Contact
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+

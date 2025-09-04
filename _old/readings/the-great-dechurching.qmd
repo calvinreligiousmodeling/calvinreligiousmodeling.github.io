@@ -1,0 +1,17 @@
+---
+title: "The Great Dechurching"
+---
+
+Davis, J., Graham, M., Burge, R. P. (2023). The Great Dechurching: Who’s Leaving, Why Are They Going, and What Will It Take to Bring Them Back?. United States: Zondervan.
+
+``` latex
+@book{davis2023great,
+  title={The Great Dechurching: Who’s Leaving, Why Are They Going, and What Will It Take to Bring Them Back?},
+  author={Davis, J. and Graham, M. and Burge, R.P. and Hansen, C.},
+  isbn={9780310145875},
+  lccn={2023009933},
+  url={https://books.google.com/books?id=khydEAAAQBAJ},
+  year={2023},
+  publisher={Zondervan}
+}
+```

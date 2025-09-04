@@ -1,0 +1,16 @@
+---
+title: "The Multigenerational Church Crisis"
+---
+
+Chapell, B. (n.d.). The Multigenerational Church Crisis: Why We Don't Understand Each Other and How to Unite in Mission. United States: Baker Publishing Group.
+
+``` latex
+@book{chapell2025multigenerational,
+  title={The Multigenerational Church Crisis: Why We Don't Understand Each Other and How to Unite in Mission},
+  author={Chapell, B.},
+  isbn={9781493450466},
+  url={https://books.google.com/books?id=zzwuEQAAQBAJ},
+  year={2025},
+  publisher={Baker Publishing Group}
+}
+```

@@ -1,1 +1,2 @@
-/.quarto/
+# MyST build outputs
+_build

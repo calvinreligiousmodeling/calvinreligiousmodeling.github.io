@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "images/twitter-card.png"
+    - "files/Calvin_College.png"
+    - "course-materials/_slides/"
+    
+website:
+  page-navigation: true
+  title: "Calvin Religious Modeling"
+  description: "Research Group"
+  site-url: "https://calvinreligiousmodeling.org/"
+  favicon: "files/Calvin_College.png"
+  
+  repo-url: https://github.com/calvinreligiousmodeling/calvinreligiousmodeling.github.io
+  repo-actions: [edit, issue]
+
+  open-graph: true
+  twitter-card:
+    creator: "@calvinreligiousmodeling"
+    image: "/images/twitter-card.png"
+
+  page-footer:
+    left: "Calvin Religious Modeling Research Group | Built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#0070C0"
+    right:
+    - text: "License"
+      href: LICENSE.md
+
+  navbar:
+    background: "#0070C0"
+    logo: "files/Calvin_College_White.png"
+    align: center
+    title: false
+    collapse-below: lg
+ 
+    right:
+      - icon: github
+        href: https://github.com/calvinreligiousmodeling/calvinreligiousmodeling.github.io
+        aria-label: GitHub
+
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: publications.qmd
+      - text: "Presentations"
+        href: presentations.qmd
+      - text: "News & Events"
+        href: updates.qmd
+      # - text: "Design"
+      #   href: design.qmd
+
+  sidebar:
+    - id: research
+      title: "Research"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: publications.qmd
+        # Future research areas can be added here
+        # - href: research-areas.qmd
+        # - href: ongoing-projects.qmd
+        # - href: collaborations.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/dsbox.scss]
+      dark: [cosmo, style/dsbox.scss, style/dark.scss]
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    include-in-header: "style/fontawesome.html"
+
+freeze: auto
+
+editor: visual

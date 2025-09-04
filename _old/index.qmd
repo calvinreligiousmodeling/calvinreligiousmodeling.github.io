@@ -1,0 +1,50 @@
+---
+title: "Calvin Religious Modeling Research Group"
+---
+
+![](files/Calvin_College.png){style="float: right; padding: 20px;" fig-alt="Calvin University Logo" fig-align="right" width="250"}
+
+## Welcome
+
+The Calvin Religious Modeling Research Group is a multidisciplinary initiative at [Calvin University](https://calvin.edu/){target="_blank"} dedicated to advancing computational modeling approaches to understand religious phenomena, faith-based behaviors, and their intersection with social dynamics.
+
+## Our Mission
+
+We investigate how computational models can illuminate the complex dynamics of religious communities, belief formation, and faith-based decision-making. Our work bridges computer science, sociology, psychology, and theology to provide evidence-based insights into religious life and practice.
+
+## Research Areas
+
+-   **Agent-Based Modeling of Religious Communities**: Studying how beliefs, practices, and values spread within and between religious groups
+-   **Computational Models of Faith Formation**: Understanding the processes by which individuals develop and change their religious beliefs
+-   **Social Network Analysis in Religious Contexts**: Examining the role of relationships and community structures in religious life
+-   **Behavioral Modeling of Religious Practices**: Investigating how religious beliefs influence behavior and decision-making
+-   **Interfaith Dynamics**: Modeling interactions between different religious traditions and their impact on social cohesion
+
+## Leadership
+
+**Eric Araújo**, Associate Professor\
+[Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"}, Calvin University\
+Head of the Behavioural Informatics Laboratory (BILbo)
+
+-   PhD in Computer Science, [Vrije Universiteit Amsterdam](https://vu.nl/nl){target="_blank"}, The Netherlands, 2018
+-   Expertise in multiagent modeling, complex systems, and social dynamics
+
+## Collaboration
+
+Our research group welcomes collaboration with scholars from diverse fields including theology, sociology, psychology, anthropology, and computer science. We believe that understanding religious phenomena requires interdisciplinary approaches that respect both scientific rigor and the complexity of faith.
+
+## Recent Updates
+
+-   **ASA 2025 Presentation**: Our abstract *Behavioral Insights into Political Polarization in Christian Communities through Computational Modeling* was accepted for oral presentation at [ASA 2025](https://network.asa3.org/mpage/ASA2025){target="_blank"}.
+
+-   **Student Research Success**: A paper titled *Modeling Introversion in the Classroom: An Agent-Based Approach* was presented at [Autonomous Agents for Social Good 2025](https://panosd.eu/aasg2025/call/){target="_blank"}, showcasing undergraduate research by Daniel Kwon and Jaden Brookens.
+
+-   **New Publication**: Our collaborative work *Exploring the Link Between Urban Topology and Street Crime Using Complex Networks: A Case Study from Southeast Brazil* was published in the *Journal of Complex Systems* ([link](https://doi.org/10.1093/comnet/cnaf016){target="_blank"}).
+
+-   **Collaborative Research**: We're presenting work on scientific collaboration networks at INSNA Sunbelt 2025 in Paris: [*Scientific Collaboration in Health and Life Sciences: A Study of Brazil's Contributions and Partnerships*](https://www.conftool.pro/sunbelt2025/index.php?page=browseSessions&form_session=196#paperID891){target="_blank"}.
+
+-   **Educational Outreach**: Published [*The use of agent-based modeling in the study of complex systems*](https://doi.org/10.1590/1806-9126-RBEF-2024-0464){target="_blank"} in the *Brazilian Journal of Physics Teaching* to promote computational modeling education.
+
+## Contact
+
+For inquiries about research collaboration, student opportunities, or general information, please contact us through the [Computer Science Department](https://calvin.edu/academics/school-stem/computer-science){target="_blank"} at Calvin University.

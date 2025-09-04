@@ -1,0 +1,16 @@
+---
+title: "Publications"
+editor: visual
+---
+
+![](images/publications.jpeg){style="float: right;" fig-alt="Generated with AI ∙ September 21, 2024 at 2:49 PM." fig-align="right" width="250"}
+
+Here you will find my publications by year. Some of them are scientific papers, some of them are interviews or newspaper's articles. I count all of it as part of my research work, and valuable as resource for those who are interested in my developments.
+
+This page is permanently under construction, so if you want to have my whole body of publications in one place, I recommend going to my [Google Scholar profile](https://scholar.google.com/citations?user=QlE8JOoAAAAJ&hl=en&authuser=1).
+
+You can also find my CV in Portuguese at [Lattes CV](http://lattes.cnpq.br/8108200264338612){target="_blank"}. Also, my social networks in English are [ResearchGate](https://www.researchgate.net/profile/Eric_Fernandes_De_Mello_Araujo){target="_blank"} and [Threads](https://www.threads.net/@eric.araujo.phd?hl=en){target="_blank"}.
+
+I have also created a [YouTube channel](https://www.youtube.com/EricAra%C3%BAjo){target="_blank"} during the 2020 pandemic to divulge my work as well as teaching resources on Agent-based modeling with Netlogo.
+
+Please let me know if any links are not working, or if you need some of my papers and can't access them by [emailing me](mailto:eric.araujo@calvin.edu).
